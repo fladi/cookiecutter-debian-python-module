@@ -50,10 +50,8 @@
     "Zlib",
     "Zope"
   ],
-  "python2": "",
-  "python3": "",
-  "debhelper": 11,
-  "standards_version": "4.2.0",
+  "debhelper": 12,
+  "standards_version": "4.4.0",
   "sphinx_root": "",
   "_extensions": ["jinja2_time.TimeExtension"]
 }
